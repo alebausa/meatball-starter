@@ -2,7 +2,7 @@
 
 > This game is for my students at Ironhack, so that they have an example of the game they should do for module 1.
 
-[<img src="img/page.png">](https://alebausa.github.io/meatball-dev/)
+[<img src="./img/page.png">](https://alebausa.github.io/meatball-dev/)
 
 ## Description
 
@@ -12,7 +12,7 @@ The purpose of the game is to score points (which one can do endlessly). The gam
 
 ## User stories MVP
 
-- User can hit play button and see the game screen
+- User can hit the Start button and see the game screen
 - User can move right and left
 - User can increase when it collides with food
 - User can decrease when it collides with poison
