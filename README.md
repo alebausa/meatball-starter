@@ -2,11 +2,11 @@
 
 > This game is for my students at Ironhack, so that they have an example of the game they should do for module 1.
 
-[<img src="./img/page.png">](https://alebausa.github.io/meatball-dev/)
+![]('img/page.png')
 
 ## Description
 
-In this game the player is a meatball developer, that grows when it eats useful stuff and shrinks when it eats unwanted items.
+In this game the player is a meatball developer, that grows when eats useful stuff and shrinks when it eats unwanted items.
 
 The purpose of the game is to score points (which one can do endlessly). The game ends when the user is below 0 points.
 
@@ -22,6 +22,7 @@ The purpose of the game is to score points (which one can do endlessly). The gam
 ## User stories Backlog
 
 - User can level up
+- User can see how the speed of the falling increases each the level goes up
 
 ## File structure
 
@@ -33,4 +34,4 @@ The purpose of the game is to score points (which one can do endlessly). The gam
 ## Useful links
 
 - [Presentation slides]()
-- [Deployed game](https://alebausa.github.io/meatball-dev/)
+- [Deployed game]()
