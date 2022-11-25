@@ -2,7 +2,7 @@
 
 > This game is for my students at Ironhack, so that they have an example of the game they should do for module 1.
 
-![]('img/page.png')
+![](img/page.png)
 
 ## Description
 
